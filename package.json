@@ -4,5 +4,8 @@
   "scripts": {
     "build": "pnpm --filter @1note/sdk build",
     "dev:playground": "pnpm --filter @1note/playground dev"
+  },
+  "dependencies": {
+    "@changesets/cli": "^2.30.0"
   }
 }
