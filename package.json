@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "build": "pnpm --filter @1note/sdk build",
+    "cli": "pnpm --filter @1note/sdk run cli",
     "dev:playground": "pnpm --filter @1note/playground dev"
   },
   "dependencies": {
