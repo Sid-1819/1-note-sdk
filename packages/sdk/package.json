@@ -1,6 +1,6 @@
 {
   "name": "@1note/sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "TypeScript client for the 1Note (secureShare) notes HTTP API",
   "license": "MIT",
   "type": "module",
